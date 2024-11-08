@@ -64,3 +64,63 @@ color: #fff;
 text-shadow:  4px 4px 0 rgba(0, 0, 0, 0.25);
 opacity: 0.5;
 }
+.destinations{
+    background-color: #fff;
+}
+.destinations-title{
+    font-weight: 600;
+font-size: 40px;
+color: #000;
+}
+.destinations-list{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.destinations-item-title{
+    font-weight: 500;
+font-size: 36px;
+text-align: center;
+color: #000;
+}
+.destinations-text{
+    font-weight: 500;
+font-size: 24px;
+text-align: center;
+color: #000;
+}
+.destinations-btn{
+    font-weight: 500;
+font-size: 24px;
+text-decoration: underline;
+text-decoration-skip-ink: none;
+text-align: center;
+color: #7c7c7c;
+}
+.blog{
+    background-color: #e6e6e6;
+}
+.blog-title{
+    font-weight: 600;
+font-size: 40px;
+color: #000;
+}
+.blog-list{
+    display: flex;
+    align-items: center;
+}
+.blog-list-text{
+    font-weight: 600;
+font-size: 16px;
+color: #7c7c7c;
+}
+.blog-list-title{
+    font-weight: 600;
+font-size: 24px;
+color: #000;
+}
+.blog-list-text2{
+    font-weight: 600;
+    font-size: 20px;
+    color: #7c7c7c;
+}
